@@ -10,7 +10,7 @@ margin:0 auto;
 	height:390px;
 	overflow:hidden;
 	margin:0 auto;
-	/*border:2px solid yellow;*/
+	border:2px solid yellow;
 	background-image:url(../images/loader.gif);
 	background-repeat:no-repeat;
 	background-position:center;
@@ -21,7 +21,7 @@ margin:0 auto;
 	height:100%;
 
 	display:none;	
-	/*border:3px solid green;*/
+	border:3px solid green;
 }
 
 
