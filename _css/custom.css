@@ -11,7 +11,7 @@ margin:0 auto;
 	overflow:hidden;
 	margin:0 auto;
 	/*border:2px solid yellow;*/
-	background-image:url(../_images/loader.gif);
+	background-image:url(../images/loader.gif);
 	background-repeat:no-repeat;
 	background-position:center;
 }
